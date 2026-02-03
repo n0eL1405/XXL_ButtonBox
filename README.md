@@ -1,6 +1,6 @@
 # XXL_ButtonBox (WIP)
 
-![](images\PXL_20260126_205109274.MP.jpg)
+![](images/PXL_20260126_205109274.MP.jpg)
 
 ## Parts
 
